@@ -1,0 +1,16 @@
+{
+  "name": "firestore-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^7.3.1",
+    "google-auth-library": "^9.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}
